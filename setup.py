@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="GeeksforGeeks",
     author_email="dahou.r@yahoo.com",
-    packages=["test-package199925"],
+    packages=["test-package"],
     description="A sample test package",
     long_description=description,
     long_description_content_type="text/markdown",
