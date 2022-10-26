@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Renaud",
     author_email="dahou.r@yahoo.com",
-    packages=["test_package"],
+    packages=["testrenaud"],
     description="A sample test package",
     long_description=description,
     long_description_content_type="text/markdown",
